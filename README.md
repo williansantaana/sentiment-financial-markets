@@ -4,7 +4,7 @@
 ## Citation
 If you use this dataset, please cite as follows:
 
-> Santana, W. (2025). *Sentiment Analysis in Financial Social Media: Impact on Market Volatility* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+> Santana, W. (2025). *Sentiment Analysis in Financial Social Media: Impact on Market Volatility* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17468843
 
 ---
 
