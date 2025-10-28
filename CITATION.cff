@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Sentiment Analysis in Financial Social Media: Impact on Market Volatility"
+authors:
+  - family-names: "Santana"
+    given-names: "Willian"
+    affiliation: "ISCTE – Instituto Universitário de Lisboa"
+    orcid: "https://orcid.org/0009-0002-6161-2513"
+date-released: 2025-03-01
+version: "1.0.0"
+doi: "10.5281/zenodo.xxxxxxx"
+url: "https://doi.org/10.5281/zenodo.xxxxxxx"
+repository-code: "https://github.com/williansantana/sentiment-financial-markets"
+abstract: |
+  This dataset accompanies the master’s research “Sentiment Analysis in Social Media to Understand the Impact on Stock Market Volatility”.
+  It contains 953,209 Stocktwits messages collected between December 2024 and March 2025, classified by the FinTwitBERT-sentiment model.
+  The data integrate social media sentiment indicators with market return data for multiple financial assets (NVDA, PLTR, NIO, LCID, EURUSD, CL=F, IRX),
+  allowing econometric and time-series analysis of investor sentiment and market behavior.
+keywords:
+  - sentiment analysis
+  - Stocktwits
+  - financial markets
+  - FinTwitBERT
+  - adaptive market hypothesis
+  - investor behavior
+  - data science
+  - econometrics
+license: "CC-BY-4.0"
+type: dataset
